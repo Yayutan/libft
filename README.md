@@ -1,2 +1,2 @@
 # libft
-First project as a Cadet in 42
+Imitation of useful library functions in C
